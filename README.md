@@ -1,5 +1,5 @@
 <h1 align="center">Douglas Carbonel</h1>
-<h3 align="center">QA em transição | Qualidade de Software | Testes & Automação</h3>
+<h3 align="center">Quality Assurance | Testes Manuais | Automação | API Testing</h3>
 
 ---
 
