@@ -1,50 +1,109 @@
-<h2 align="left">Fala 👋! Eu sou o Douglas, QA em transição, do Brasil 🇧🇷</h2>
+<h1 align="center">🧪 Douglas Carbonel</h1>
+<h3 align="center">QA em construção | Suporte Técnico | Qualidade de Software</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Carbonel&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Carbonel&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
+### 💻 Terminal
 
-###
+<pre>
+douglas@qa:~$ whoami
+Douglas Carbonel
 
-<img align="right" height="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+douglas@qa:~$ current_role
+Suporte técnico → Transição para QA
 
-###
+douglas@qa:~$ focus
+Automação de testes | Testes de API | Qualidade de software
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="30" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-</div>
+douglas@qa:~$ environment
+CRM | SAP | Troubleshooting | Validação de sistemas
+</pre>
 
-###
+---
 
-<div align="left">
-  <a href="https://instagram.com/douglng" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-  <a href="https://linkedin.com/in/douglascarbonel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+## 🧪 QA Dashboard
+
+| Área | Status |
+|------|--------|
+| 🐞 Bug Analysis | ✔ Experiência prática |
+| 🔍 Testes Manuais | ✔ Sólido |
+| 🌐 Testes de API | 🔄 Em evolução |
+| 🤖 Automação | 🔄 Em aprendizado |
+| ⚙️ CI/CD | 🔄 Explorando |
+
+---
+
+## 🚀 Sobre mim
+
+Profissional com experiência em suporte técnico, atuando na análise de problemas, identificação de bugs e validação de sistemas.
+
+Tenho forte perfil investigativo, focado em entender a causa raiz dos problemas e garantir a qualidade das entregas.
+
+Atualmente evoluindo para QA com foco em automação de testes e testes de API.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cypress-Testing-058a5e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Database-CC2927?style=for-the-badge" />
+</p>
+
+---
+
+## 🐞 Bug Report (sobre mim)
+
+<pre>
++ Nome: Douglas Carbonel
++ Perfil: QA em construção
++ Severidade: Alta
++ Status: Em progresso
+
++ Descrição:
+Profissional com experiência em troubleshooting,
+análise de falhas e validação de sistemas.
+
++ Próxima ação:
+Evoluir para automação de testes e testes de API
+</pre>
+
+---
+
+## ✅ QA Journey
+
+- [x] Experiência com suporte técnico  
+- [x] Investigação e análise de bugs  
+- [x] Validação de sistemas (CRM / SAP)  
+- [ ] Testes de API (Postman / Insomnia)  
+- [ ] Automação com Cypress  
+- [ ] Automação com Selenium  
+- [ ] Pipeline de testes  
+
+---
+
+## 🌐 Contato
+
+<p>
+  <a href="https://linkedin.com/in/douglascarbonel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:douglascarbonell@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  <a href="https://instagram.com/douglng">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+## ⚡ Fun fact
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+> Eu gosto de encontrar bugs que ninguém percebe 🔍
