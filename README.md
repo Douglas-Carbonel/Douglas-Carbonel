@@ -1,31 +1,36 @@
 <h1 align="center">Douglas Carbonel</h1>
-<h3 align="center">Quality Assurance | Testes Manuais | Automação | API Testing</h3>
+<h3 align="center">QA | Validação de Sistemas | Troubleshooting | CRM & SAP</h3>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Atuo com qualidade de software, análise de falhas e validação de sistemas, com experiência em troubleshooting em ambientes CRM e integrações com SAP.
+Atuo com qualidade de software, análise de falhas e validação de sistemas, com experiência prática em troubleshooting em ambientes CRM e integrações com SAP.
 
-Tenho perfil analítico e foco em identificar problemas, entender causas raiz e contribuir para entregas mais estáveis e confiáveis.
+Tenho perfil analítico, focado em identificar problemas, entender causas raiz e garantir entregas mais estáveis e confiáveis.
 
-Atualmente aprofundo meus estudos em automação de testes e testes de API.
+Atualmente estou aprofundando conhecimentos em automação de testes e testes de API.
 
 ---
 
-## 🎯 Objetivo
+## 🧪 Atuação em QA
 
-Evoluir como QA, atuando com testes automatizados, validação de APIs e melhoria contínua da qualidade de software.
+- Análise e investigação de bugs  
+- Validação de funcionalidades  
+- Testes manuais  
+- Troubleshooting em produção  
+- Apoio em homologações  
+- Interpretação de payloads e integrações  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,git,github" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Cypress-Testing-058a5e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API Testing-Postman-orange?style=for-the-badge" />
@@ -36,17 +41,24 @@ Evoluir como QA, atuando com testes automatizados, validação de APIs e melhori
 
 ## 📈 Em evolução
 
-- Testes de API (Postman / Insomnia)
-- Automação com Cypress
-- Automação com Selenium
-- Boas práticas de QA
-- CI/CD para testes
+- Automação de testes (Cypress / Selenium)  
+- Testes de API  
+- Estruturação de testes  
+- CI/CD aplicado a QA  
+
+---
+
+## 📌 Projetos em destaque
+
+- 🔧 Testes automatizados com Cypress  
+- 🧪 Validação de fluxos E2E  
+- 📄 Estudos e práticas de QA  
 
 ---
 
 ## 🌐 Contato
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/douglascarbonel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
