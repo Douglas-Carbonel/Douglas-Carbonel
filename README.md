@@ -5,11 +5,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo na área de suporte técnico com foco em análise de problemas, validação de sistemas e identificação de falhas.
+Atuo com qualidade de software, análise de falhas e validação de sistemas, com experiência em troubleshooting em ambientes CRM e integrações com SAP.
 
-Tenho experiência prática com troubleshooting em ambientes CRM e integrações com SAP, atuando diretamente na investigação de bugs e garantia da qualidade.
+Tenho perfil analítico e foco em identificar problemas, entender causas raiz e contribuir para entregas mais estáveis e confiáveis.
 
-Atualmente estou evoluindo para a área de QA, com foco em automação de testes e testes de API.
+Atualmente aprofundo meus estudos em automação de testes e testes de API.
 
 ---
 
