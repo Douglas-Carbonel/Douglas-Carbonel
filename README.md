@@ -1,49 +1,59 @@
-# 💫 About Me
+<h2 align="left">Fala 👋! Eu sou o Douglas e estou em transição para QA (Quality Assurance)</h2>
 
-## 👨‍💻 Sobre mim
+###
 
-Atuo na área de suporte técnico e estou em transição para QA (Qualidade de Software).
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Carbonel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Douglas-Carbonel&layout=compact&langs_count=5&theme=dracula" height="150" />
+</div>
 
-Tenho experiência com análise de problemas, identificação de bugs e validação de sistemas, principalmente em ambientes CRM e integrações com SAP.
+###
 
-Gosto de investigar falhas a fundo, entender o comportamento do sistema e buscar soluções que realmente façam sentido para o usuário.
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-## 🚀 Atualmente estudando
-- Automação de testes (Selenium / Cypress)
-- Testes de API
-- Boas práticas de QA
+###
 
-🎯 Objetivo: evoluir para um QA mais técnico com foco em automação.
+<div align="left">
 
----
+💻 Atuo com suporte técnico e estou migrando para QA  
+🔍 Experiência com análise de bugs, validação de sistemas e troubleshooting  
+📊 Atuação com CRM e integrações com SAP  
+🚀 Foco em evoluir para automação de testes  
 
-## 🌐 Contato
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/douglng) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglascarbonel) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:douglascarbonell@outlook.com)
+</div>
 
----
+###
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+</div>
 
----
+###
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Douglas-Carbonel&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Douglas-Carbonel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Carbonel&theme=dark&hide_border=false&layout=compact)
+<div align="left">
+  <a href="https://instagram.com/douglng" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://linkedin.com/in/douglascarbonel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:douglascarbonell@outlook.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
 
----
+###
 
-## 🏆 Destaques
-![](https://github-profile-trophy.vercel.app/?username=Douglas-Carbonel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Douglas-Carbonel/Douglas-Carbonel/output/snake.svg" alt="Snake animation" />
